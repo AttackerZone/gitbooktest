@@ -29,7 +29,6 @@ http://styleguide.gitbook.com/
 
 
 
-
 ## Spinner
 ```
 <div class="gb-spinner spinner-sm"></div>
