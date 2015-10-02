@@ -23,15 +23,45 @@ After installation Be sure too activate the option from the book.json file :
 
 ```
 > **Info** Info
+
+ssss
+
 > **Note** Note
+
+ssss
+
 > **Tag** Tag
+
+ssss
+
 > **Comment** Comment
+
+ssss
+
 > **Hint** Hint
+
+ssss
+
 > **Success** Success
+
+ssss
+
 > **Warning** Warning
+
+ssss
+
 > **Caution** Caution
+
+ssss
+
+
 > **Danger** Danger
+
+ssss
+
 > **Quote** Quote
+
+ssss
 ```
 
 
