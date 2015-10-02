@@ -30,7 +30,6 @@ After installation Be sure too activate the option from the book.json file :
 
 > **Comment** Comment
 
-
 > **Hint** Hint
 
 > **Success** Success
