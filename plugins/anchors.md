@@ -21,6 +21,6 @@ https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#headin
 ## Testing writing in the editor 
 
 ```
-[Heading 2](../chapter1/artile_1.md#Heading 2)
+[Heading 2](../chapter1/article_1.md#Heading 2)
 ```
-[Heading 2](../chapter1/artile_1.html#Heading 2)
+[Heading 2](../chapter1/article_1.html#Heading 2)
