@@ -5,5 +5,5 @@
 * [Versions](versions/versions.md)
    * [Version 4.1.2](versions/version_412.md)
        * [SubSub](versions/subsub.md)
-* Plugins
+* [Plugins](plugins/plugins.md)
 
