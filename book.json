@@ -1,7 +1,8 @@
 {
     "plugins": [
         "include-codeblock",
-        "atoc"
+        "atoc",
+        "toggle-chapters"
     ],
     "pluginsConfig": {}
 }
