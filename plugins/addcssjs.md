@@ -6,6 +6,10 @@ test copied from https://github.com/arangodb/Cookbook/tree/master/recipes just f
 
 ## Test
 
+- Add style folder, contains 
+    - header.css
+    - header.js
+    - website.css
 
 ## Result
 - Desktop Editor: [not] the real result 
