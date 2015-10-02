@@ -15,4 +15,5 @@
 * [Chapter 2](chapter2/chapter_2.md)
    * Article 1
    * Article 2
+   * Article 3
 
