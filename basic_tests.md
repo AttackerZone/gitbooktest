@@ -36,4 +36,4 @@ Every recipe has tags to for a better overview. The tags are in chronicle order:
 
 [1]: https://www.arangodb.com/
 [2]: https://github.com/arangodb/Cookbook
-[1^]: https://www.arangodb.com/
+[1^]: [FOOT](https://www.arangodb.com/)
