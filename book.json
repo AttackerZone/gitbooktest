@@ -3,7 +3,8 @@
         "include-codeblock",
         "image-captions",
         "expandable-chapters",
-        "anchors"
+        "anchors",
+        "richquotes"
     ],
     "pluginsConfig": {}
 }
