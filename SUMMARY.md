@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Basic Tests
+* [Basic Tests](basic_tests.md)
 * [Tables](tables.md)
 * [Versions](versions/versions.md)
    * [Version 4.1.2](versions/version_412.md)
