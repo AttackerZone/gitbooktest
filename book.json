@@ -5,7 +5,8 @@
         "expandable-chapters",
         "anchors",
         "richquotes",
-        "ace"
+        "ace",
+        "addcssjs"
     ],
     "pluginsConfig": {}
 }
