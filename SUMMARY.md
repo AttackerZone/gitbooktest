@@ -9,6 +9,7 @@
    * [toggle-chapters](plugins/toggle-chapters.md)
    * [image-captions](plugins/image-captions.md)
    * [expandable-chapters](plugins/expandable-chapters.md)
+   * anchors
 * [Versions](versions/versions.md)
    * [Version 4.1.2](versions/version_412.md)
        * [SubSub](versions/subsub.md)
