@@ -12,6 +12,8 @@ https://plugins.gitbook.com/plugin/include-codeblock
 
 ## Result 
 
-OK, **Result appears as it should be on the web**
+- Desktop Editor: not the real result 
+- Web Editor: not the real result 
+- Online book: Yes
 
 https://kingsabri.gitbooks.io/gitbooktest/content/plugins/include-codeblock.html
