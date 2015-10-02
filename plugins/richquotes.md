@@ -2,6 +2,23 @@
 
 https://plugins.gitbook.com/plugin/richquotes
 
+
+Be sure too activate the option from the book.json file :
+
+```
+{
+    "plugins"       : ["richquotes"]
+    ,"pluginsConfig":
+    {
+        "richquotes" :
+        {
+            "todos" : true /*false by default*/
+        }
+    }
+}
+```
+
+
 ## Test
 
 ```
