@@ -9,8 +9,8 @@ https://plugins.gitbook.com/plugin/image-captions
 
 
 ## Result
-- Desktop Editor: [not] the real result 
-- Web Editor: [not] the real result 
-- Online book: Yes | No
+- Desktop Editor: not the real result 
+- Web Editor: not the real result 
+- Online book: Yes
 
-Test link on the online gitbook
+https://kingsabri.gitbooks.io/gitbooktest/content/plugins/image-captions.html
