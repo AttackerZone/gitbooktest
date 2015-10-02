@@ -27,6 +27,7 @@ https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#headin
 
 
 ```
-[Heading 2](../chapter1/article_1.html#heading-2)
+[Where can I get some?](../chapter1/article_1.html#where-can-i-get-some)
 ```
 
+[Where can I get some?](../chapter1/article_1.html#where-can-i-get-some)
