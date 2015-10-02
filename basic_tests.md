@@ -30,10 +30,9 @@ Every recipe is divided into three parts:
 2. **Solution**: A detailed solution of the given problem with code if any is needed
 3. **Comment**: Explanation of the solution. This part is optional depending on the complexity of the problem
 
-Every recipe has tags to for a better overview. The tags are in chronicle order:
 
-*#API*, *#aql*, *#arangosh*, *#collection*, *#database*, *#debian*, *#docker*, *#document*, *#driver*, *#foxx*, *#giantswarm*, *#graph*, *#howto*, *#java*, *#javascript*, *#join*, *#nodejs*, *#windows*
 
+---
 [1]: https://www.arangodb.com/
 [2]: https://github.com/arangodb/Cookbook
 [1^]: [FOOT](https://www.arangodb.com/)
