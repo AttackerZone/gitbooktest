@@ -93,6 +93,6 @@ ssss
 - Desktop Editor: Not the real result 
 - Web Editor: Not the real result 
 - Working on Online book: Yes 
-- 
 
+https://kingsabri.gitbooks.io/gitbooktest/content/plugins/richquotes.html
 
