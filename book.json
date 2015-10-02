@@ -8,5 +8,10 @@
         "ace",
         "addcssjs"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {"addcssjs": {
+          "js": ["styles/header.js"],
+          "css": ["styles/header.css"]
+      }
+        
+    }
 }
