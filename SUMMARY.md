@@ -7,7 +7,7 @@
    * [include-codeblock](plugins/include-codeblock.md)
    * [atoc](plugins/atoc.md)
    * [toggle-chapters](plugins/toggle-chapters.md)
-   * image-captions
+   * [image-captions](plugins/image-captions.md)
 * [Versions](versions/versions.md)
    * [Version 4.1.2](versions/version_412.md)
        * [SubSub](versions/subsub.md)
