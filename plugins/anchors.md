@@ -6,9 +6,9 @@ https://github.com/rlmv/gitbook-plugin-anchors
 Just install it 
 
 ## Result
-- Desktop Editor: [not] the real result 
-- Web Editor: [not] the real result 
-- Working on Online book: Yes | No
+- Desktop Editor: not the real result 
+- Web Editor: not the real result 
+- Working on Online book: Yes 
 
 
 ### Direct links 
