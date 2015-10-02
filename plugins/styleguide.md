@@ -37,11 +37,14 @@ http://styleguide.gitbook.com/
 <div class="gb-spinner spinner-lg"></div>
 <div class="gb-spinner spinner-centered"></div>
 ```
+<html lang="en">
+
 <div class="gb-spinner spinner-sm"></div>
 <div class="gb-spinner"></div>
 <div class="gb-spinner spinner-lg"></div>
 <div class="gb-spinner spinner-centered"></div>
 
+</html>
 
 ## Panels
 ```
