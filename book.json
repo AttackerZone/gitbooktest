@@ -2,7 +2,8 @@
     "plugins": [
         "include-codeblock",
         "image-captions",
-        "expandable-chapters"
+        "expandable-chapters",
+        "anchors"
     ],
     "pluginsConfig": {}
 }
