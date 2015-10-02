@@ -27,6 +27,7 @@ plguin link
 
 
 ## Result
-
-
+- Desktop Editor: [not] the real result 
+- Web Editor: [not] the real result 
+- Online book: Yes | No
 ```
