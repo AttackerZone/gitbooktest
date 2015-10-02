@@ -5,7 +5,7 @@
 
 - Fill path: **BUG**
 
-![eth](images/eth.jpg)
+![eth](../images/eth.jpg)
 
 
 ## Footer
