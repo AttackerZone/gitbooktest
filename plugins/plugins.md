@@ -12,3 +12,21 @@ Most of plugins work on the browser editor version not desktop editor. Install t
 ```
 gitbook install 
 ```
+
+
+
+## Each plugin test page add 
+
+
+```
+
+plguin link
+
+
+## Test
+
+
+## Result
+
+
+```
