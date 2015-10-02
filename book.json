@@ -4,13 +4,8 @@
         "image-captions",
         "expandable-chapters",
         "anchors",
-        "richquotes"
+        "richquotes",
+        "ace"
     ],
-    "pluginsConfig": {
-        
-        "richquotes" :
-        {
-            "todos" : true
-        }
-    }
+    "pluginsConfig": {}
 }
