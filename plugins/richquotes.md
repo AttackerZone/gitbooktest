@@ -20,23 +20,45 @@ https://plugins.gitbook.com/plugin/richquotes
 
 > **Info** Info
 
+ssss
+
 > **Note** Note
+
+ssss
 
 > **Tag** Tag
 
+ssss
+
 > **Comment** Comment
+
+ssss
 
 > **Hint** Hint
 
+ssss
+
 > **Success** Success
+
+ssss
 
 > **Warning** Warning
 
+ssss
+
 > **Caution** Caution
+
+ssss
+
 
 > **Danger** Danger
 
+ssss
+
 > **Quote** Quote
+
+ssss
+
 
 
 ## Result
