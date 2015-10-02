@@ -13,6 +13,7 @@
    * [richquotes](plugins/richquotes.md)
    * [ace](plugins/ace.md)
    * [addcssjs](plugins/addcssjs.md)
+   * styleguide
 * [Versions](versions/versions.md)
    * [Version 4.1.2](versions/version_412.md)
        * [SubSub](versions/subsub.md)
