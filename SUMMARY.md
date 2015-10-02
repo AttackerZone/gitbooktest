@@ -11,5 +11,6 @@
        * [SubSub](versions/subsub.md)
 * [Chapter 1](chapter1/chapter_1.md)
    * Article 1
+   * Article 2
 * [Chapter 2](chapter2/chapter_2.md)
 
