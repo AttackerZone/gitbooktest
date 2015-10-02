@@ -6,8 +6,7 @@
         "anchors",
         "richquotes",
         "ace",
-        "addcssjs",
-        "gitbook-styleguide"
+        "addcssjs"
     ],
     "pluginsConfig": {}
 }
