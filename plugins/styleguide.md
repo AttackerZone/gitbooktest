@@ -6,8 +6,9 @@ http://styleguide.gitbook.com/
 ```
 npm install gitbook-styleguide
 ```
+## Test
 
-## Alerts
+### Alerts
 ```
 <div class="alert alert-info">
     This is an alert!
@@ -18,7 +19,7 @@ npm install gitbook-styleguide
 </div>
 
 
-## Labels
+### Labels
 ```
 <h1>Warning Label <span class="label label-warning">Warning !</span></h1>
 <h1>Danger Label <span class="label label-danger">Danger !</span></h1>
@@ -35,7 +36,7 @@ npm install gitbook-styleguide
 
 
 
-## Spinner
+### Spinner
 ```
 <div class="gb-spinner spinner-sm"></div>
 <div class="gb-spinner"></div>
@@ -51,7 +52,7 @@ npm install gitbook-styleguide
 
 </html>
 
-## Panels
+### Panels
 ```
 <div class="panel panel-danger">
     <div class="panel-heading">
@@ -122,7 +123,7 @@ npm install gitbook-styleguide
 
 
 
-## Forms
+### Forms
 ```
 <div class="form-group">
     <input type="text" class="form-control" disabled value="Disabled state">
@@ -136,13 +137,13 @@ npm install gitbook-styleguide
 
 
 
-## Colors 
+### Colors 
 @gb-palette-black
 @gb-palette-gray-dark
 @gb-palette-green / @gb-brand-success
 
 
-## Icons
+### Icons
 ```
 <i class="octicon octicon-book"></i>
 
