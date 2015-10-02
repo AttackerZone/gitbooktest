@@ -2,7 +2,8 @@
     "plugins": [
         "include-codeblock",
         "atoc",
-        "toggle-chapters"
+        "toggle-chapters",
+        "image-captions"
     ],
     "pluginsConfig": {}
 }
