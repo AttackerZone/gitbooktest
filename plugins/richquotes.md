@@ -3,7 +3,7 @@
 https://plugins.gitbook.com/plugin/richquotes
 
 
-Be sure too activate the option from the book.json file :
+After installation Be sure too activate the option from the book.json file :
 
 ```
 {
