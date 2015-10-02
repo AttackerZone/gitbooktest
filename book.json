@@ -6,13 +6,8 @@
         "anchors",
         "richquotes",
         "ace",
-        "addcssjs"
+        "addcssjs",
+        "styleguide"
     ],
-    "pluginsConfig": {
-        "addcssjs": {
-          "js": ["styles/header.js"],
-          "css": ["styles/header.css"]
-      }
-        
-    }
+    "pluginsConfig": {}
 }
