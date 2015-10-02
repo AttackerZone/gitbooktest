@@ -35,4 +35,4 @@ Every recipe is divided into three parts:
 ---
 [1]: https://www.arangodb.com/
 [2]: https://github.com/arangodb/Cookbook
-[1^]: [FOOT](https://www.arangodb.com/)
+[^1]: [FOOT](https://www.arangodb.com/)
