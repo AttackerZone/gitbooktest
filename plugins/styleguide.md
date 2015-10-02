@@ -123,5 +123,41 @@ http://styleguide.gitbook.com/
 
 
 
+## Colors 
+@gb-palette-black
+@gb-palette-gray-dark
+@gb-palette-green / @gb-brand-success
+
+
+## Icons
+```
+<i class="octicon octicon-book"></i>
+
+```
+<i class="octicon octicon-book"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
