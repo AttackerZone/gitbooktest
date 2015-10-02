@@ -1,7 +1,6 @@
 {
     "plugins": [
         "include-codeblock",
-        "toggle-chapters",
         "image-captions"
     ],
     "pluginsConfig": {}
