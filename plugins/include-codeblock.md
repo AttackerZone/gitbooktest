@@ -12,6 +12,6 @@ https://plugins.gitbook.com/plugin/include-codeblock
 
 ## Result 
 
-OK, Result appears as it should be on the web
+OK, **Result appears as it should be on the web**
 
 https://kingsabri.gitbooks.io/gitbooktest/content/plugins/include-codeblock.html
