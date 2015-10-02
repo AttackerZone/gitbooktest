@@ -6,5 +6,10 @@
         "anchors",
         "richquotes"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "richquotes" :
+        {
+            "todos" : true /*false by default*/
+        }
+    }
 }
