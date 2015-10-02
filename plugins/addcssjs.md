@@ -15,3 +15,4 @@ test copied from https://github.com/arangodb/Cookbook/tree/master/recipes just f
 - Desktop Editor: [not] the real result 
 - Web Editor: [not] the real result 
 - Working on Online book: Yes | No
+
