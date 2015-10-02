@@ -10,7 +10,7 @@
         
         "richquotes" :
         {
-            "todos" : true /*false by default*/
+            "todos" : true
         }
     }
 }
