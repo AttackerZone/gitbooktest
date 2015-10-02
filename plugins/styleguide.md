@@ -1,6 +1,12 @@
 # styleguide
 http://styleguide.gitbook.com/
 
+- To install it 
+
+```
+npm install gitbook-styleguide
+```
+
 ## Alerts
 ```
 <div class="alert alert-info">
