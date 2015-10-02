@@ -5,7 +5,7 @@ https://plugins.gitbook.com/plugin/image-captions
 
 ## Test
 
-![Ethnet title](eth.jpg)
+![Ethernet title](eth.jpg)
 
 
 ## Result
