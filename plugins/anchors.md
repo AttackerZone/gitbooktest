@@ -10,8 +10,14 @@ Just install it
 - Web Editor: [not] the real result 
 - Working on Online book: Yes | No
 
-Test link on the online gitbook
+
+### Direct links 
 
 https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#where-can-i-get-some
 
 https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#heading-4
+
+
+## Testing writing in the editor 
+
+<p><a name="fulltext_index:"></a></p>
