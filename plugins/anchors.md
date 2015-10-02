@@ -3,7 +3,7 @@
 https://github.com/rlmv/gitbook-plugin-anchors
 
 ## Test
-
+Just install it 
 
 ## Result
 - Desktop Editor: [not] the real result 
