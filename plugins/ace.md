@@ -56,8 +56,8 @@ end
 
 
 ## Result
-- Desktop Editor: [not] the real result 
-- Web Editor: [not] the real result 
-- Working on Online book: Yes | No
+- Desktop Editor: (Get the code messy in the editor) not the real result 
+- Web Editor:  (Get the code messy in the editor)  not the real result 
+- Working on Online book: Yes 
 
 Test link on the online gitbook
