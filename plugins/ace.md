@@ -13,7 +13,6 @@ https://plugins.gitbook.com/plugin/ace
 
 
 {%ace edit=true, lang='ruby'%}
-# Ruby script 
 #!/usr/bin/env ruby
 #
 # for hex in $(xxd -p ethernet-cable.jpg); do echo $hex | ncat -u localhost 53 ; done
