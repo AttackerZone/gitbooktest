@@ -20,4 +20,6 @@ https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#headin
 
 ## Testing writing in the editor 
 
-<p><a name="fulltext_index:"></a></p>
+ssss<a name="../chapter1/artile1.md#Heading 2"></a>
+
+[Heading 2](../chapter1/artile1.md#Heading 2)
