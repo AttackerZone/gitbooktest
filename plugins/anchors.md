@@ -22,4 +22,4 @@ https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#headin
 
 ssss<a name="../chapter1/artile1.md#Heading 2"></a>
 
-[Heading 2](../chapter1/artile1.md#where-can-i-get-some)
+[Heading 2](../chapter1/artile_1.md#Heading 2)
