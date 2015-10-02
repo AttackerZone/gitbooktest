@@ -117,7 +117,7 @@ http://styleguide.gitbook.com/
 
 
 <div class="form-group has-error">
-    <input type="text" class="form-control" disabled value="Disabled state">
+    <input type="text" class="form-control" disabled value="Disabled Error state">
 </div>
 ```
 
