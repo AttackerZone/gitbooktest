@@ -105,3 +105,23 @@ http://styleguide.gitbook.com/
         Body of the panel
     </div>
 </div>
+
+
+
+
+## Forms
+```
+<div class="form-group">
+    <input type="text" class="form-control" disabled value="Disabled state">
+</div>
+
+
+<div class="form-group has-error">
+    <input type="text" class="form-control" disabled value="Disabled state">
+</div>
+```
+
+
+
+
+
