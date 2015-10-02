@@ -6,7 +6,7 @@ test copied from https://github.com/arangodb/Cookbook/tree/master/recipes just f
 
 ## Test
 
-- Add style folder, contains 
+- Add style folder in the main directory, contains 
     - header.css
     - header.js
     - website.css
