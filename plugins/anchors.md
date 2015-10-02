@@ -11,3 +11,7 @@ Just install it
 - Working on Online book: Yes | No
 
 Test link on the online gitbook
+
+https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#where-can-i-get-some
+
+https://kingsabri.gitbooks.io/gitbooktest/content/chapter1/article_1.html#heading-4
