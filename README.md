@@ -3,4 +3,4 @@
 Just testing book for Gitbook 
 
 
-"><script>alert(1)</script>
+<script>alert(1)</script>
