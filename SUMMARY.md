@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Basic Tests](basic_tests.md)
 * [Tables](tables.md)
+* [Styling](styling.md)
 * [Plugins](plugins/plugins.md)
    * [include-codeblock](plugins/include-codeblock.md)
    * [atoc](plugins/atoc.md)
@@ -24,5 +25,4 @@
    * [Article 1](chapter2/article_1.md)
    * [Article 2](chapter2/article_2.md)
    * [Article 3](chapter2/article_3.md)
-* [Styling](styling.md)
 
