@@ -24,5 +24,5 @@
    * [Article 1](chapter2/article_1.md)
    * [Article 2](chapter2/article_2.md)
    * [Article 3](chapter2/article_3.md)
-* Styling
+* [Styling](styling.md)
 
