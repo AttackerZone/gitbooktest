@@ -4,11 +4,6 @@ https://plugins.gitbook.com/plugin/ace
 
 ## Test
 
-```
-{%ace edit=true, lang='ruby'%}
-# Put you ruby code here
-{%endace%}
-```
 
 
 ## Result
