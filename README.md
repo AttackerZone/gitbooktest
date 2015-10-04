@@ -2,10 +2,6 @@
 
 Just testing book for Gitbook 
 
-Add line 1 and line 2
-
-
-
-```ruby
-puts "hi"
+```
+(1...4).each {|l| puts "Add line #{l}"}
 ```
