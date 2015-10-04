@@ -16,4 +16,4 @@ https://plugins.gitbook.com/plugin/image-captions
 https://kingsabri.gitbooks.io/gitbooktest/content/plugins/image-captions.html
 
 
-you've to add configuration to json somtimes!
+you've to add configuration to json sometimes!
