@@ -4,13 +4,9 @@ Just testing book for Gitbook
 
 
 
-Add 
+Add lines 
 
-line 1,
-
-line 2,
-
-line 3
-
-Adding line 4
+```
+(1...4).each {|l| puts "Add line #{l}"}
+```
 
