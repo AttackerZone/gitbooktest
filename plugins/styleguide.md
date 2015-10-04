@@ -35,7 +35,6 @@ npm install gitbook-styleguide
 </html>
 
 
-
 ### Spinner
 ```
 <div class="gb-spinner spinner-sm"></div>
