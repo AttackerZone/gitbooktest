@@ -4,11 +4,9 @@
         "image-captions",
         "expandable-chapters",
         "anchors",
-        "richquotes",
         "addcssjs"
     ],
     "pluginsConfig": {},
-    
     "styles": {
         "website": "styles/website.css"
     }
