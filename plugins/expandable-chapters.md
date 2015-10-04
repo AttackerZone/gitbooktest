@@ -4,7 +4,7 @@ https://plugins.gitbook.com/plugin/expandable-chapters
 
 ## Test
 
-Just add it
+Just add the plugin to gitbook
 
 ## Result
 - Desktop Editor: not the real result 
